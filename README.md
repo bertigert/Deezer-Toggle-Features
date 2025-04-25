@@ -2,7 +2,7 @@
 Plugin to toggle custom features in Deezer and some other things
 
 ## Usage
-Open the [toggle_features.js](https://github.com/bertigert/Deezer-Toggle-Features/blob/main/toggle_features.js) file and take a look into the Settings Section.
+Open the [toggle_features.js](https://github.com/bertigert/Deezer-Toggle-Features/blob/main/toggle_features.js) file and take a look into the Settings Section. (Edit it in your userscript manager)
 
 ```js
 // ======= Settings START =======  
