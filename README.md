@@ -1,5 +1,5 @@
 # Deezer-Toggle-Features
-Plugin to toggle custom features in Deezer and some other things
+Userscript to toggle custom features in Deezer and some other things. Install with a userscript manager like Violentmonkey.
 
 [GreazyFork](https://greasyfork.org/en/scripts/533942-toggle-features)
 [GitHub](https://github.com/bertigert/Deezer-Toggle-Features)
