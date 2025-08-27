@@ -5,6 +5,9 @@ Also on Desktop using [DeezMod](https://github.com/bertigert/DeezMod) (Download 
 [GreazyFork](https://greasyfork.org/en/scripts/533942-toggle-features)
 [GitHub](https://github.com/bertigert/Deezer-Toggle-Features)
 
+## NOTE
+As of around August 2025, Deezer changed it so that we cannot directly see what features we cannot use if we cannot use them. We only have information about features we can use. This does not mean the features don't work anymore, it's just more complicated to find disabled features.
+
 
 ## Usage
 Open the [toggle_features.js](https://github.com/bertigert/Deezer-Toggle-Features/blob/main/toggle_features.js) file and take a look into the Settings Section. (Edit it in your userscript manager)
